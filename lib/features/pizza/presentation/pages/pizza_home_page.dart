@@ -6,7 +6,7 @@ class PizzaHomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const Center(
-      child: Text('Pizza   Home v  Page'),
+      child: Text('PizzaHome  Page'),
     );
   }
 }
